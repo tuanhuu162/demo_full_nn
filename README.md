@@ -1,0 +1,2 @@
+# demo_full_nn
+## ĐÂY LÀ FILE CODE MẪU ĐƯỢC LÀM DỰA TRÊN CHƯƠNG 4: FULLY CONNECTED DEEP NETWORK
