@@ -1,2 +1,2 @@
 # demo_full_nn
-## ĐÂY LÀ FILE CODE MẪU ĐƯỢC LÀM DỰA TRÊN CHƯƠNG 4: FULLY CONNECTED DEEP NETWORK
+## Đây là file code mẫu dựa trên hướng dẫn bên trong phần "Implementation in TensorFlow" của chương 4:"Fully Connected Deep Network" - TensorFlow for DeepLearning - Bharath Ramsundar & Reza Bosagh Zadeh
